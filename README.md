@@ -1,1 +1,1 @@
-https://alesyad#2824.github.io/rsschool-cv/cv
+https://github.com/Alesyd/rsschool-cv/blob/gh-pages/cv.md
